@@ -1,5 +1,5 @@
 # import-magento-products-programatically
-import magento products programatically using CSV
+import magento products programatically through CSV
 
 Step:
 
